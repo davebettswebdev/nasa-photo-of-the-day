@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Ubuntu&display=swap');
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    background: black;
+    color: White;
+   
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+footer {
+  background: black;
+  color: white;
+}
+
+
