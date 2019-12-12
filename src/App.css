@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Ubuntu&display=swap');
+
+
+
 .App {
   text-align: center;
+  border: solid white 2px;
+  width: 1000px;
+  margin: 0 auto;
+  background: white;
 }
 
 .App-logo {
