@@ -21,10 +21,10 @@ function APOD() {
 
     return(
         <div>
+            <Info date={apodData.date}/>
             <Title title={apodData.title}/>
             <div>
                 <Image source={apodData.hdurl} alt={apodData.title}/>
-                <Info date={apodData.date} media={apodData.media_type}/>
             </div>
             <Description description={apodData.explanation} />
         </div>
